@@ -24,6 +24,7 @@ Shader "Custom/NewSurfaceShader"
         struct Input
         {
             float2 uv_MainTex;
+            //intBitsToFloatwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
         };
 
         half _Glossiness;
